@@ -31,3 +31,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+.establishment {
+  background-color    : gray;
+  padding             : 10px;
+  margin              : 5px 30px;
+  border-radius       : 8px;
+  list-style          : none;
+}
+
+.like{
+    display:flex;
+    justify-content: flex-end;
+    color:yellow;
+
+}
+
+.fa-thumbs-down{
+  margin-left:1%;
+  margin-top:2%;
+}
+.fa-star {
+  display: flex;
+  justify-content: flex-start;
+  }
